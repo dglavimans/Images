@@ -1,0 +1,102 @@
+[
+  {
+    "backgroundImageURL": "https://github.com/dglavimans/Images/blob/main/hf_20260327_174221_870a263a-efc6-4f54-b00a-554b21d93485.png?raw=true",
+    "dataSource": {
+      "kind": "addonCatalog",
+      "payload": {
+        "addonId": "https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/%7B%22anidb_best-of-10s%22%3A%22on%22%2C%22anidb_best-of-00s%22%3A%22on%22%2C%22anidb_best-of-90s%22%3A%22on%22%2C%22anidb_best-of-80s%22%3A%22on%22%2C%22anilist_trending-now%22%3A%22on%22%2C%22anilist_popular-this-season%22%3A%22on%22%2C%22anilist_upcoming-next-season%22%3A%22on%22%7D/manifest.json",
+        "catalogId": "anime::anidb_best-of-80s",
+        "catalogType": "series"
+      }
+    },
+    "dataSources": [
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/%7B%22anidb_best-of-10s%22%3A%22on%22%2C%22anidb_best-of-00s%22%3A%22on%22%2C%22anidb_best-of-90s%22%3A%22on%22%2C%22anidb_best-of-80s%22%3A%22on%22%2C%22anilist_trending-now%22%3A%22on%22%2C%22anilist_popular-this-season%22%3A%22on%22%2C%22anilist_upcoming-next-season%22%3A%22on%22%7D/manifest.json",
+          "catalogId": "anime::anidb_best-of-80s",
+          "catalogType": "series"
+        }
+      }
+    ],
+    "hideTitle": true,
+    "id": "30AEEC89-4F34-458B-87BF-EDF104B0D31B",
+    "layout": "Wide",
+    "name": "80s"
+  },
+  {
+    "backgroundImageURL": "https://github.com/dglavimans/Images/blob/main/hf_20260327_174327_132a8a51-dddd-4b49-b1e5-e172752b1482.png?raw=true",
+    "dataSource": {
+      "kind": "addonCatalog",
+      "payload": {
+        "addonId": "https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/%7B%22anidb_best-of-10s%22%3A%22on%22%2C%22anidb_best-of-00s%22%3A%22on%22%2C%22anidb_best-of-90s%22%3A%22on%22%2C%22anidb_best-of-80s%22%3A%22on%22%2C%22anilist_trending-now%22%3A%22on%22%2C%22anilist_popular-this-season%22%3A%22on%22%2C%22anilist_upcoming-next-season%22%3A%22on%22%7D/manifest.json",
+        "catalogId": "anime::anidb_best-of-90s",
+        "catalogType": "series"
+      }
+    },
+    "dataSources": [
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/%7B%22anidb_best-of-10s%22%3A%22on%22%2C%22anidb_best-of-00s%22%3A%22on%22%2C%22anidb_best-of-90s%22%3A%22on%22%2C%22anidb_best-of-80s%22%3A%22on%22%2C%22anilist_trending-now%22%3A%22on%22%2C%22anilist_popular-this-season%22%3A%22on%22%2C%22anilist_upcoming-next-season%22%3A%22on%22%7D/manifest.json",
+          "catalogId": "anime::anidb_best-of-90s",
+          "catalogType": "series"
+        }
+      }
+    ],
+    "hideTitle": true,
+    "id": "6BD22171-787A-4804-B8B4-EA65FCF9DB77",
+    "layout": "Wide",
+    "name": "90s"
+  },
+  {
+    "backgroundImageURL": "https://github.com/dglavimans/Images/blob/main/hf_20260327_174359_e7b5809d-7ed0-4654-9468-b5dc427ccd65.png?raw=true",
+    "dataSource": {
+      "kind": "addonCatalog",
+      "payload": {
+        "addonId": "https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/%7B%22anidb_best-of-10s%22%3A%22on%22%2C%22anidb_best-of-00s%22%3A%22on%22%2C%22anidb_best-of-90s%22%3A%22on%22%2C%22anidb_best-of-80s%22%3A%22on%22%2C%22anilist_trending-now%22%3A%22on%22%2C%22anilist_popular-this-season%22%3A%22on%22%2C%22anilist_upcoming-next-season%22%3A%22on%22%7D/manifest.json",
+        "catalogId": "anime::anidb_best-of-00s",
+        "catalogType": "series"
+      }
+    },
+    "dataSources": [
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/%7B%22anidb_best-of-10s%22%3A%22on%22%2C%22anidb_best-of-00s%22%3A%22on%22%2C%22anidb_best-of-90s%22%3A%22on%22%2C%22anidb_best-of-80s%22%3A%22on%22%2C%22anilist_trending-now%22%3A%22on%22%2C%22anilist_popular-this-season%22%3A%22on%22%2C%22anilist_upcoming-next-season%22%3A%22on%22%7D/manifest.json",
+          "catalogId": "anime::anidb_best-of-00s",
+          "catalogType": "series"
+        }
+      }
+    ],
+    "hideTitle": true,
+    "id": "CDB4584B-78C8-43BF-8269-6821C06B09EB",
+    "layout": "Wide",
+    "name": "00s"
+  },
+  {
+    "backgroundImageURL": "https://github.com/dglavimans/Images/blob/main/hf_20260327_174340_f3ad05c1-1f5c-4f37-b006-24bfb93e0fa5.png?raw=true",
+    "dataSource": {
+      "kind": "addonCatalog",
+      "payload": {
+        "addonId": "https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/%7B%22anidb_best-of-10s%22%3A%22on%22%2C%22anidb_best-of-00s%22%3A%22on%22%2C%22anidb_best-of-90s%22%3A%22on%22%2C%22anidb_best-of-80s%22%3A%22on%22%2C%22anilist_trending-now%22%3A%22on%22%2C%22anilist_popular-this-season%22%3A%22on%22%2C%22anilist_upcoming-next-season%22%3A%22on%22%7D/manifest.json",
+        "catalogId": "anime::anidb_best-of-10s",
+        "catalogType": "series"
+      }
+    },
+    "dataSources": [
+      {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/%7B%22anidb_best-of-10s%22%3A%22on%22%2C%22anidb_best-of-00s%22%3A%22on%22%2C%22anidb_best-of-90s%22%3A%22on%22%2C%22anidb_best-of-80s%22%3A%22on%22%2C%22anilist_trending-now%22%3A%22on%22%2C%22anilist_popular-this-season%22%3A%22on%22%2C%22anilist_upcoming-next-season%22%3A%22on%22%7D/manifest.json",
+          "catalogId": "anime::anidb_best-of-10s",
+          "catalogType": "series"
+        }
+      }
+    ],
+    "hideTitle": true,
+    "id": "85FD8AE5-5A1F-4EB0-ADAB-D24FBA0CF86C",
+    "layout": "Wide",
+    "name": "10s"
+  }
+]
